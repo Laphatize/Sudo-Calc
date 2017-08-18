@@ -1,6 +1,6 @@
 # sudoCalc-swift
 
-<h1> Support </h1> <br>
+**Support**<br>
 Version v.0.2 of Sudo Calc currently supports iOS 6 and above. <br>
 Note that SudoCalc(iOS) is still in beta..meaning that the app can crash randomly. <br>
 
