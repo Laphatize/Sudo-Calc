@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sudo Calc/AppDelegate.swift"
+            timestampString = "524793225.242825"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "applicationDidEnterBackground(application:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sudo Calc/AppDelegate.swift"
+            timestampString = "524793225.243584"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sudo_Calc.AppDelegate.__deallocating_deinit"
+                  moduleName = "Sudo Calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SANDISK/Sudo%20Calc%20-%20App/Sudo%20Calc/Sudo%20Calc/AppDelegate.swift"
+                  timestampString = "524536510.786596"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sudo_Calc.AppDelegate.init () -&gt; Sudo_Calc.AppDelegate"
+                  moduleName = "Sudo Calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SANDISK/Sudo%20Calc%20-%20App/Sudo%20Calc/Sudo%20Calc/AppDelegate.swift"
+                  timestampString = "524536510.789119"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sudo_Calc.AppDelegate.__allocating_init () -&gt; Sudo_Calc.AppDelegate"
+                  moduleName = "Sudo Calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SANDISK/Sudo%20Calc%20-%20App/Sudo%20Calc/Sudo%20Calc/AppDelegate.swift"
+                  timestampString = "524536510.791022"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Sudo Calc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/SANDISK/Sudo%20Calc%20-%20App/Sudo%20Calc/Sudo%20Calc/AppDelegate.swift"
+                  timestampString = "524536510.793695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sudo Calc/AppDelegate.swift"
+            timestampString = "524793225.243928"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "applicationDidEnterBackground(application:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
