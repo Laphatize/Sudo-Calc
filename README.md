@@ -1,4 +1,5 @@
 # sudoCalc-swift
+** USE THE BACKUP ONE ** <br>
 
 **Support**<br>
 Version v.0.2 of Sudo Calc currently supports iOS 6 and above. <br>
